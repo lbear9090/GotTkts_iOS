@@ -1,17 +1,19 @@
 PODS:
   - DYQRCodeDecoder (1.1.2)
-  - GoogleMaps (2.7.0):
-    - GoogleMaps/Maps (= 2.7.0)
-  - GoogleMaps/Base (2.7.0)
-  - GoogleMaps/Maps (2.7.0):
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
     - GoogleMaps/Base
-  - GooglePlaces (2.7.0):
-    - GoogleMaps/Base (= 2.7.0)
+  - GooglePlaces (4.2.0):
+    - GoogleMaps/Base (= 4.2.0)
   - Haneke (1.0.2)
   - HSDatePickerViewController (1.0.4)
-  - JVFloatLabeledTextField (1.2.1)
+  - JVFloatLabeledTextField (1.2.2)
   - MBCircularProgressBar (0.3.5)
-  - Stripe (13.2.0)
+  - Stripe (21.3.1):
+    - Stripe/Stripe3DS2 (= 21.3.1)
+  - Stripe/Stripe3DS2 (21.3.1)
   - Vertigo (0.1)
 
 DEPENDENCIES:
@@ -26,7 +28,7 @@ DEPENDENCIES:
   - Vertigo
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - DYQRCodeDecoder
     - GoogleMaps
     - GooglePlaces
@@ -39,15 +41,15 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   DYQRCodeDecoder: 8468610fa383361fba4e9c84711a56e6d8ed3169
-  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
-  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  GooglePlaces: 196a9dd88580dcb3f3df46f415057703d0d2a310
   Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
   HSDatePickerViewController: 5a72b71f8c3b10e76f2c28a898f8572b551432a6
-  JVFloatLabeledTextField: cfc44e3c4d493b2ed92ede8035e8e89c2912ba64
+  JVFloatLabeledTextField: df48598472ee015701d509f43e59492a0d4ca208
   MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
-  Stripe: 2c69e216061d54d9c538204bb4f58bd597ddfc5b
+  Stripe: 326a2160ac541eeffafb8b1aa0c9712e3ce8cec7
   Vertigo: b971aa21e904512cfe387196ccba37df3f9a792e
 
-PODFILE CHECKSUM: ef4ad4372127d524f744e49c960d8806bbfcab48
+PODFILE CHECKSUM: fb2ab9e3083fbaf15bcd433913bf18da1db83f89
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.10.1

@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 #import <Parse/Parse.h>
 #import <GoogleMaps/GoogleMaps.h>
-#import <Stripe/Stripe.h>
+#import <Stripe/Stripe-Swift.h>
 #import <GooglePlaces/GooglePlaces.h>
 
 @interface AppDelegate ()

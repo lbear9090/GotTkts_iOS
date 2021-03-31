@@ -7,7 +7,7 @@
 //
 
 #import "MyPaymentViewController.h"
-#import "Stripe.h"
+#import <Stripe/Stripe-Swift.h>
 #import "MenuViewController.h"
 
 @interface MyPaymentViewController ()<STPPaymentCardTextFieldDelegate>
@@ -78,7 +78,7 @@
 }
 
 - (void)paymentCardTextFieldDidChange:(STPPaymentCardTextField *)textField {
-    NSLog(@"Card number: %@ Exp Month: %@ Exp Year: %@ CVC: %@", textField.cardParams.number, @(textField.cardParams.expMonth), @(textField.cardParams.expYear), textField.cardParams.cvc);
+//    NSLog(@"Card number: %@ Exp Month: %@ Exp Year: %@ CVC: %@", textField.cardParams.number, @(textField.cardParams.expMonth), @(textField.cardParams.expYear), textField.cardParams.cvc);
     btnPay.enabled = textField.isValid;
 }
 
