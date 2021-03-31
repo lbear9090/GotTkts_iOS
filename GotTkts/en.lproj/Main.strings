@@ -1,0 +1,849 @@
+
+/* Class = "UILabel"; text = "Events Your Promoting"; ObjectID = "02V-pk-tJ0"; */
+"02V-pk-tJ0.text" = "Events Your Promoting";
+
+/* Class = "UIButton"; normalTitle = "VIEW CHECKIN"; ObjectID = "0Ad-IG-ESM"; */
+"0Ad-IG-ESM.normalTitle" = "VIEW CHECKIN";
+
+/* Class = "UILabel"; text = "Events on Map"; ObjectID = "0FE-rh-2Vv"; */
+"0FE-rh-2Vv.text" = "Events on Map";
+
+/* Class = "UILabel"; text = "QTY: 0"; ObjectID = "0Hu-Vq-Vj2"; */
+"0Hu-Vq-Vj2.text" = "QTY: 0";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "0a0-fY-73V"; */
+"0a0-fY-73V.normalTitle" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0kG-Hf-cGP"; */
+"0kG-Hf-cGP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Terms"; ObjectID = "12p-NM-dHw"; */
+"12p-NM-dHw.text" = "Terms";
+
+/* Class = "UILabel"; text = "Create Event"; ObjectID = "1MN-T8-aaq"; */
+"1MN-T8-aaq.text" = "Create Event";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "1cv-fh-PFW"; */
+"1cv-fh-PFW.text" = "Dashboard";
+
+/* Class = "UITextField"; placeholder = "Percentage"; ObjectID = "1lR-bG-WyG"; */
+"1lR-bG-WyG.placeholder" = "Percentage";
+
+/* Class = "UIButton"; normalTitle = "PAY"; ObjectID = "1s8-mg-urY"; */
+"1s8-mg-urY.normalTitle" = "PAY";
+
+/* Class = "UILabel"; text = "No items"; ObjectID = "1sF-sC-0J1"; */
+"1sF-sC-0J1.text" = "No items";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "2cr-pl-F10"; */
+"2cr-pl-F10.text" = "SMS";
+
+/* Class = "UILabel"; text = "Map Display"; ObjectID = "2rc-gW-XOF"; */
+"2rc-gW-XOF.text" = "Map Display";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "32V-JC-w2P"; */
+"32V-JC-w2P.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Age Requirement to Attend Event *"; ObjectID = "3QS-Xl-kRp"; */
+"3QS-Xl-kRp.placeholder" = "Age Requirement to Attend Event *";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "3Qm-0n-wwL"; */
+"3Qm-0n-wwL.text" = "Ticket Name";
+
+/* Class = "UILabel"; text = "Event Description"; ObjectID = "3T7-X8-zCS"; */
+"3T7-X8-zCS.text" = "Event Description";
+
+/* Class = "UITextField"; placeholder = "Birthday"; ObjectID = "45T-7Z-3wo"; */
+"45T-7Z-3wo.placeholder" = "Birthday";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "46l-EZ-kmf"; */
+"46l-EZ-kmf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Let Sub Promoters - Promote Event"; ObjectID = "4ag-Xt-VaG"; */
+"4ag-Xt-VaG.text" = "Let Sub Promoters - Promote Event";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4iY-13-Gce"; */
+"4iY-13-Gce.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tickets You Sold"; ObjectID = "4km-Yl-Ja4"; */
+"4km-Yl-Ja4.text" = "Tickets You Sold";
+
+/* Class = "UILabel"; text = "No history"; ObjectID = "4tV-qW-fu1"; */
+"4tV-qW-fu1.text" = "No history";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5he-IY-Ij0"; */
+"5he-IY-Ij0.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "5qR-03-3px"; */
+"5qR-03-3px.placeholder" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "5tK-kY-tNv"; */
+"5tK-kY-tNv.normalTitle" = "Edit Profile";
+
+/* Class = "UITextField"; placeholder = "Card Number"; ObjectID = "675-mq-1NP"; */
+"675-mq-1NP.placeholder" = "Card Number";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "6Cg-WH-YUV"; */
+"6Cg-WH-YUV.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "6Sb-mQ-vxm"; */
+"6Sb-mQ-vxm.text" = "Categories";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "6Tw-Xs-fvB"; */
+"6Tw-Xs-fvB.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Stripe Account"; ObjectID = "6Yj-u6-8YH"; */
+"6Yj-u6-8YH.text" = "Stripe Account";
+
+/* Class = "UILabel"; text = "TkTs"; ObjectID = "6jw-Uc-ShC"; */
+"6jw-Uc-ShC.text" = "TkTs";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "6pD-yl-Uh6"; */
+"6pD-yl-Uh6.normalTitle" = "Connect";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6qJ-yg-tTN"; */
+"6qJ-yg-tTN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ticket Price"; ObjectID = "6xx-Rn-x4o"; */
+"6xx-Rn-x4o.text" = "Ticket Price";
+
+/* Class = "UITextField"; placeholder = "Address Line 1"; ObjectID = "72Q-wI-aSU"; */
+"72Q-wI-aSU.placeholder" = "Address Line 1";
+
+/* Class = "UITextField"; placeholder = "Ticket Name"; ObjectID = "7Mf-2F-xhb"; */
+"7Mf-2F-xhb.placeholder" = "Ticket Name";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "7Sw-Tn-1dQ"; */
+"7Sw-Tn-1dQ.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Purchased Qty"; ObjectID = "7XY-H6-TdO"; */
+"7XY-H6-TdO.text" = "Purchased Qty";
+
+/* Class = "UITextField"; placeholder = "Ticket Name"; ObjectID = "81o-46-Dkb"; */
+"81o-46-Dkb.placeholder" = "Ticket Name";
+
+/* Class = "UILabel"; text = "New Item"; ObjectID = "8Ls-0l-3ES"; */
+"8Ls-0l-3ES.text" = "New Item";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "8bO-4O-ORc"; */
+"8bO-4O-ORc.text" = "Ticket Name";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "8ik-L9-5au"; */
+"8ik-L9-5au.placeholder" = "State";
+
+/* Class = "UILabel"; text = "Display Remaining Tickets"; ObjectID = "8wc-UR-Oer"; */
+"8wc-UR-Oer.text" = "Display Remaining Tickets";
+
+/* Class = "UITextField"; placeholder = "Pickup Location use"; ObjectID = "8z8-uM-0Gm"; */
+"8z8-uM-0Gm.placeholder" = "Pickup Location use";
+
+/* Class = "UITextField"; placeholder = "Address Line 1"; ObjectID = "9Re-0d-bKV"; */
+"9Re-0d-bKV.placeholder" = "Address Line 1";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9rh-P6-fcF"; */
+"9rh-P6-fcF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "BOOKING DATE\nNO OF TICKETS"; ObjectID = "AGG-Q0-RuP"; */
+"AGG-Q0-RuP.text" = "BOOKING DATE\nNO OF TICKETS";
+
+/* Class = "UILabel"; text = "Create Event"; ObjectID = "AdH-ki-ej7"; */
+"AdH-ki-ej7.text" = "Create Event";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "AxH-TO-dBG"; */
+"AxH-TO-dBG.placeholder" = "Search";
+
+/* Class = "UITextField"; placeholder = "Event Expire Date"; ObjectID = "B5T-75-6W1"; */
+"B5T-75-6W1.placeholder" = "Promo Code Expiry Date";
+
+/* Class = "UITextField"; placeholder = "Last 4 Digits of SSN"; ObjectID = "Bec-If-1Vz"; */
+"Bec-If-1Vz.placeholder" = "Last 4 Digits of SSN";
+
+/* Class = "UIButton"; normalTitle = "LOG OUT"; ObjectID = "Bjn-lm-1N6"; */
+"Bjn-lm-1N6.normalTitle" = "LOG OUT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ByC-lB-QDg"; */
+"ByC-lB-QDg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Payout"; ObjectID = "CK1-Bx-sXt"; */
+"CK1-Bx-sXt.text" = "Payout";
+
+/* Class = "UITextField"; placeholder = "Zipcode"; ObjectID = "Cls-Oy-7i0"; */
+"Cls-Oy-7i0.placeholder" = "Zipcode";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Cru-pN-859"; */
+"Cru-pN-859.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "Cwq-Ag-gBX"; */
+"Cwq-Ag-gBX.placeholder" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CxR-6O-Nm5"; */
+"CxR-6O-Nm5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "Czp-BR-qyJ"; */
+"Czp-BR-qyJ.text" = "Reset Password";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "DPx-Fp-S4I"; */
+"DPx-Fp-S4I.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Add Tickets"; ObjectID = "DXp-gR-L4Q"; */
+"DXp-gR-L4Q.text" = "Add Tickets";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "Dhx-UD-F0b"; */
+"Dhx-UD-F0b.text" = "Messages";
+
+/* Class = "UILabel"; text = "EVENT NAME\nORDER NUMBER"; ObjectID = "Dvx-ni-7W0"; */
+"Dvx-ni-7W0.text" = "EVENT NAME\nORDER NUMBER";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EUd-SI-Mz9"; */
+"EUd-SI-Mz9.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Event Category"; ObjectID = "Ekk-aB-gIH"; */
+"Ekk-aB-gIH.placeholder" = "Event Category";
+
+/* Class = "UIButton"; normalTitle = "ACCEPT"; ObjectID = "Enh-lB-uIb"; */
+"Enh-lB-uIb.normalTitle" = "ACCEPT";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "Epy-5H-rTb"; */
+"Epy-5H-rTb.text" = "Event";
+
+/* Class = "UITextField"; placeholder = "Entertainment"; ObjectID = "F1K-kb-vcP"; */
+"F1K-kb-vcP.placeholder" = "Entertainment";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "FL1-5D-OMZ"; */
+"FL1-5D-OMZ.placeholder" = "City";
+
+/* Class = "UIButton"; normalTitle = "Attend"; ObjectID = "Fan-a3-S1o"; */
+"Fan-a3-S1o.normalTitle" = "Attend";
+
+/* Class = "UILabel"; text = "Add Image"; ObjectID = "Fpc-4m-52x"; */
+"Fpc-4m-52x.text" = "Add Image";
+
+/* Class = "UILabel"; text = "Offer"; ObjectID = "Fqj-Gl-ART"; */
+"Fqj-Gl-ART.text" = "Offer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G1h-iB-zes"; */
+"G1h-iB-zes.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "GKy-nt-EQK"; */
+"GKy-nt-EQK.text" = "FAQs";
+
+/* Class = "UILabel"; text = "TKTS"; ObjectID = "GQG-Bs-26C"; */
+"GQG-Bs-26C.text" = "TKTS";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "GdC-z7-NMh"; */
+"GdC-z7-NMh.placeholder" = "First name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "H0z-ja-QrY"; */
+"H0z-ja-QrY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ticket Sub Total"; ObjectID = "HIt-0V-1qA"; */
+"HIt-0V-1qA.text" = "Ticket Sub Total";
+
+/* Class = "UITextField"; placeholder = "Dress Code"; ObjectID = "HLC-PU-kGT"; */
+"HLC-PU-kGT.placeholder" = "Dress Code";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "HfM-2J-fQb"; */
+"HfM-2J-fQb.text" = "Ticket Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HgD-OA-1nj"; */
+"HgD-OA-1nj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hx9-03-hfL"; */
+"Hx9-03-hfL.text" = "Label";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "Ibg-oz-qmF"; */
+"Ibg-oz-qmF.text" = "Ticket Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IfW-5v-TuI"; */
+"IfW-5v-TuI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ifm-JX-txb"; */
+"Ifm-JX-txb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Trading basics"; ObjectID = "IwL-MH-cUV"; */
+"IwL-MH-cUV.text" = "Trading basics";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "J4u-33-vFj"; */
+"J4u-33-vFj.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "J9B-hh-thZ"; */
+"J9B-hh-thZ.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "4 in a room"; ObjectID = "JCy-vc-uZt"; */
+"JCy-vc-uZt.text" = "4 in a room";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "JLb-hp-Xxz"; */
+"JLb-hp-Xxz.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "My Events"; ObjectID = "JcW-Hq-haX"; */
+"JcW-Hq-haX.text" = "My Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JdI-C3-VAi"; */
+"JdI-C3-VAi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "DECLINE"; ObjectID = "JhF-D8-ptZ"; */
+"JhF-D8-ptZ.normalTitle" = "DECLINE";
+
+/* Class = "UIButton"; normalTitle = "Add Photo Here"; ObjectID = "Kc5-cL-Wtq"; */
+"Kc5-cL-Wtq.normalTitle" = "Add Photo Here";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "KdB-Fc-XpB"; */
+"KdB-Fc-XpB.placeholder" = "Address";
+
+/* Class = "UILabel"; text = "Venue"; ObjectID = "Kum-YP-8yR"; */
+"Kum-YP-8yR.text" = "Venue";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "LMK-pw-WMF"; */
+"LMK-pw-WMF.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Stripe Account"; ObjectID = "Lg9-6C-ojn"; */
+"Lg9-6C-ojn.text" = "Stripe Account";
+
+/* Class = "UILabel"; text = "702 Reunion"; ObjectID = "LuC-42-dGZ"; */
+"LuC-42-dGZ.text" = "702 Reunion";
+
+/* Class = "UILabel"; text = "Manage Events"; ObjectID = "M14-pi-5Mz"; */
+"M14-pi-5Mz.text" = "Manage Events";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "M8c-b0-0aG"; */
+"M8c-b0-0aG.text" = "Event";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "M96-Ai-a9Q"; */
+"M96-Ai-a9Q.text" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MLd-j7-BaM"; */
+"MLd-j7-BaM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Pending Requests"; ObjectID = "MOX-8D-DDH"; */
+"MOX-8D-DDH.text" = "Pending Requests";
+
+/* Class = "UITextField"; placeholder = "CVC"; ObjectID = "Mvb-9M-8PC"; */
+"Mvb-9M-8PC.placeholder" = "CVC";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "MxU-rM-JQO"; */
+"MxU-rM-JQO.placeholder" = "Account Number";
+
+/* Class = "UILabel"; text = "702 Reunion"; ObjectID = "N1Q-hO-Qhs"; */
+"N1Q-hO-Qhs.text" = "702 Reunion";
+
+/* Class = "UILabel"; text = "Create Event"; ObjectID = "N4N-U6-R9Q"; */
+"N4N-U6-R9Q.text" = "Create Event";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N53-ef-jb8"; */
+"N53-ef-jb8.text" = "Label";
+
+/* Class = "UILabel"; text = "Upcoming Events"; ObjectID = "N5u-lL-kXm"; */
+"N5u-lL-kXm.text" = "Upcoming Events";
+
+/* Class = "UITextField"; placeholder = "MM"; ObjectID = "NAD-1K-3iG"; */
+"NAD-1K-3iG.placeholder" = "MM";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "NuB-Au-eZA"; */
+"NuB-Au-eZA.text" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "OR2-wr-NSb"; */
+"OR2-wr-NSb.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "John Smith"; ObjectID = "Oi4-Xu-djm"; */
+"Oi4-Xu-djm.text" = "John Smith";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "OpR-DT-7YO"; */
+"OpR-DT-7YO.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "Otw-yl-B3j"; */
+"Otw-yl-B3j.text" = "Order Total";
+
+/* Class = "UILabel"; text = "Please choose your item for trading."; ObjectID = "P71-vN-XDt"; */
+"P71-vN-XDt.text" = "Please choose your item for trading.";
+
+/* Class = "UILabel"; text = "TkTs Sales"; ObjectID = "PDR-rA-kli"; */
+"PDR-rA-kli.text" = "TkTs Sales";
+
+/* Class = "UILabel"; text = "Order # on October 12, 2018"; ObjectID = "PM6-Z3-eS2"; */
+"PM6-Z3-eS2.text" = "Order # on October 12, 2018";
+
+/* Class = "UILabel"; text = "SALES"; ObjectID = "PSI-GA-HwJ"; */
+"PSI-GA-HwJ.text" = "SALES";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PW9-wK-mWn"; */
+"PW9-wK-mWn.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pg4-8Y-zHY"; */
+"Pg4-8Y-zHY.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "BOOK YOUR TICKETS"; ObjectID = "QMg-Sd-cQj"; */
+"QMg-Sd-cQj.normalTitle" = "BOOK YOUR TICKETS";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "QQd-rx-eIX"; */
+"QQd-rx-eIX.text" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Ticket Name"; ObjectID = "Qt3-1g-1nA"; */
+"Qt3-1g-1nA.placeholder" = "Ticket Name";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "R94-fR-ApO"; */
+"R94-fR-ApO.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RAo-dQ-ni8"; */
+"RAo-dQ-ni8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "702 Reunion"; ObjectID = "REJ-Wt-ztM"; */
+"REJ-Wt-ztM.text" = "702 Reunion";
+
+/* Class = "UILabel"; text = "Tkts Sales"; ObjectID = "ROe-uT-LHg"; */
+"ROe-uT-LHg.text" = "Tkts Sales";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "RZ4-8Y-8OJ"; */
+"RZ4-8Y-8OJ.placeholder" = "State";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RcV-RR-C8A"; */
+"RcV-RR-C8A.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SCS-MN-1jB"; */
+"SCS-MN-1jB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SS6-uX-6FT"; */
+"SS6-uX-6FT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "About & Help"; ObjectID = "Sey-pz-aeP"; */
+"Sey-pz-aeP.text" = "About & Help";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Sta-cw-FgK"; */
+"Sta-cw-FgK.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T0Y-bJ-eeL"; */
+"T0Y-bJ-eeL.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TCO-dD-tB3"; */
+"TCO-dD-tB3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bank Account"; ObjectID = "TRs-Er-IJ8"; */
+"TRs-Er-IJ8.text" = "Bank Account";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tjj-WX-wwW"; */
+"Tjj-WX-wwW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U1q-gn-PeJ"; */
+"U1q-gn-PeJ.text" = "Label";
+
+/* Class = "UILabel"; text = "TkTs"; ObjectID = "URq-NF-UqJ"; */
+"URq-NF-UqJ.text" = "TkTs";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "UXn-gP-NuV"; */
+"UXn-gP-NuV.text" = "My Profile";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "UsM-D9-Vor"; */
+"UsM-D9-Vor.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Uz3-TX-NEm"; */
+"Uz3-TX-NEm.text" = "Settings";
+
+/* Class = "UILabel"; text = "Bank Account"; ObjectID = "V1m-42-Fvx"; */
+"V1m-42-Fvx.text" = "Bank Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "V2V-xN-Dtb"; */
+"V2V-xN-Dtb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bank Account"; ObjectID = "VAe-mz-29K"; */
+"VAe-mz-29K.text" = "Bank Account";
+
+/* Class = "UILabel"; text = "Ticket Qty"; ObjectID = "VOl-Ux-SHq"; */
+"VOl-Ux-SHq.text" = "Ticket Qty";
+
+/* Class = "UILabel"; text = "EDIT"; ObjectID = "VWp-eS-6WN"; */
+"VWp-eS-6WN.text" = "EDIT";
+
+/* Class = "UILabel"; text = "Wed, October 3, 2018 at 01:25 PM"; ObjectID = "Vlf-IW-FpH"; */
+"Vlf-IW-FpH.text" = "Wed, October 3, 2018 at 01:25 PM";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "VmP-E9-PEH"; */
+"VmP-E9-PEH.text" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "VnA-iA-0CL"; */
+"VnA-iA-0CL.placeholder" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "VpG-3i-nk4"; */
+"VpG-3i-nk4.normalTitle" = "Log in";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "WUv-K6-L4P"; */
+"WUv-K6-L4P.placeholder" = "Qty";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XhV-AW-uaB"; */
+"XhV-AW-uaB.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xv5-l4-Rko"; */
+"Xv5-l4-Rko.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "YPh-Jy-1n1"; */
+"YPh-Jy-1n1.placeholder" = "Price";
+
+/* Class = "UITextField"; text = "FREE"; ObjectID = "YPh-Jy-1n1"; */
+"YPh-Jy-1n1.text" = "FREE";
+
+/* Class = "UILabel"; text = "Manage Events"; ObjectID = "YcV-98-pLj"; */
+"YcV-98-pLj.text" = "Manage Events";
+
+/* Class = "UILabel"; text = "EVENT NAME\nORDER NUMBER"; ObjectID = "Ycc-qH-VcG"; */
+"Ycc-qH-VcG.text" = "EVENT NAME\nORDER NUMBER";
+
+/* Class = "UIButton"; normalTitle = "Pending Promoting Request"; ObjectID = "Ytb-lR-t3Q"; */
+"Ytb-lR-t3Q.normalTitle" = "Pending Promoting Request";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "Z1W-c3-hbf"; */
+"Z1W-c3-hbf.placeholder" = "Location";
+
+/* Class = "UILabel"; text = "when can we meet?"; ObjectID = "ZNI-MN-J9k"; */
+"ZNI-MN-J9k.text" = "when can we meet?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZSU-Ho-mFJ"; */
+"ZSU-Ho-mFJ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "ZgT-aC-CCs"; */
+"ZgT-aC-CCs.placeholder" = "State";
+
+/* Class = "UILabel"; text = "Offer"; ObjectID = "a5q-ZT-6sS"; */
+"a5q-ZT-6sS.text" = "Offer";
+
+/* Class = "UITextField"; placeholder = "Promo Type"; ObjectID = "aEi-9R-JVT"; */
+"aEi-9R-JVT.placeholder" = "Promo Type";
+
+/* Class = "UIButton"; normalTitle = "Events Your Promoting"; ObjectID = "aKv-Zd-2Iv"; */
+"aKv-Zd-2Iv.normalTitle" = "Events Your Promoting";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "aLX-Ib-Q3O"; */
+"aLX-Ib-Q3O.text" = "Settings";
+
+/* Class = "UILabel"; text = "Create Event"; ObjectID = "auJ-v7-cXI"; */
+"auJ-v7-cXI.text" = "Create Event";
+
+/* Class = "UILabel"; text = "Tkts"; ObjectID = "ayt-vs-oTx"; */
+"ayt-vs-oTx.text" = "Tkts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b8Z-g4-U6p"; */
+"b8Z-g4-U6p.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Package descritpion"; ObjectID = "bPu-74-v1G"; */
+"bPu-74-v1G.placeholder" = "Add package";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "baq-bp-eva"; */
+"baq-bp-eva.text" = "Ticket Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "c5K-X5-G3X"; */
+"c5K-X5-G3X.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "cWP-xc-Nb9"; */
+"cWP-xc-Nb9.placeholder" = "City";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cwF-pm-XBJ"; */
+"cwF-pm-XBJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "cxX-cf-7ci"; */
+"cxX-cf-7ci.text" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "d2f-Kz-w8e"; */
+"d2f-Kz-w8e.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dCp-2G-8ph"; */
+"dCp-2G-8ph.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dJM-oq-vW8"; */
+"dJM-oq-vW8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ticket Name"; ObjectID = "dKe-TA-Jik"; */
+"dKe-TA-Jik.text" = "Ticket Name";
+
+/* Class = "UITextField"; placeholder = "Last 4 Digits of SSN"; ObjectID = "dLt-8v-eno"; */
+"dLt-8v-eno.placeholder" = "Last 4 Digits of SSN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "day-QD-Yzh"; */
+"day-QD-Yzh.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "dwK-I2-gkQ"; */
+"dwK-I2-gkQ.placeholder" = "Qty";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "e9N-yU-hXw"; */
+"e9N-yU-hXw.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "eGZ-XT-5nQ"; */
+"eGZ-XT-5nQ.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eRu-FS-p26"; */
+"eRu-FS-p26.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "USD $700.00\nCROSS SALES\nTICKETS SOLD"; ObjectID = "edd-UB-i7Q"; */
+"edd-UB-i7Q.text" = "USD $700.00\nCROSS SALES\nTICKETS SOLD";
+
+/* Class = "UIButton"; normalTitle = "Sign up for free"; ObjectID = "erZ-hM-qYu"; */
+"erZ-hM-qYu.normalTitle" = "Sign up for free";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "ese-dz-5ue"; */
+"ese-dz-5ue.placeholder" = "Price";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "exi-ar-tIE"; */
+"exi-ar-tIE.text" = "Full name";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "f0k-81-s8W"; */
+"f0k-81-s8W.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Sub Promoter"; ObjectID = "fV7-nt-KEd"; */
+"fV7-nt-KEd.text" = "Sub Promoter";
+
+/* Class = "UITextField"; placeholder = "Select Organizer"; ObjectID = "fbe-R0-tKf"; */
+"fbe-R0-tKf.placeholder" = "Select Organizer";
+
+/* Class = "UITextField"; placeholder = "Start Date & Time"; ObjectID = "g1j-bz-zlz"; */
+"g1j-bz-zlz.placeholder" = "Start Date & Time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gBX-Ps-PE3"; */
+"gBX-Ps-PE3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "gCA-pn-CW7"; */
+"gCA-pn-CW7.text" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "gPu-1q-YbL"; */
+"gPu-1q-YbL.placeholder" = "Category";
+
+/* Class = "UILabel"; text = "Debit Card"; ObjectID = "gff-T4-eKI"; */
+"gff-T4-eKI.text" = "Debit Card";
+
+/* Class = "UIButton"; normalTitle = "Attend"; ObjectID = "gha-wJ-UeO"; */
+"gha-wJ-UeO.normalTitle" = "Attend";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gmU-C0-ITA"; */
+"gmU-C0-ITA.text" = "Label";
+
+/* Class = "UILabel"; text = "Wed, October 3, 2018 at 01:25 PM"; ObjectID = "gmv-Ew-hJ6"; */
+"gmv-Ew-hJ6.text" = "Wed, October 3, 2018 at 01:25 PM";
+
+/* Class = "UILabel"; text = "Wed, October 3, 2018 at 01:25 PM"; ObjectID = "gtV-DX-QlF"; */
+"gtV-DX-QlF.text" = "Wed, October 3, 2018 at 01:25 PM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gu8-8s-Dxn"; */
+"gu8-8s-Dxn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h2w-ZB-Yuf"; */
+"h2w-ZB-Yuf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hEE-6l-Fc5"; */
+"hEE-6l-Fc5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ticket Sale Date & Event Date"; ObjectID = "hHH-IC-VUa"; */
+"hHH-IC-VUa.text" = "Ticket Sale Date & Event Date";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hmy-hC-nIA"; */
+"hmy-hC-nIA.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "hyo-fw-HS1"; */
+"hyo-fw-HS1.placeholder" = "Qty";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hzc-oK-9U4"; */
+"hzc-oK-9U4.text" = "Label";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "iQH-Wd-SxR"; */
+"iQH-Wd-SxR.text" = "Privacy";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "iQS-7T-Ccy"; */
+"iQS-7T-Ccy.placeholder" = "Title";
+
+/* Class = "UILabel"; text = "OCT 28 2019"; ObjectID = "ibZ-YG-aZ9"; */
+"ibZ-YG-aZ9.text" = "OCT 28 2019";
+
+/* Class = "UILabel"; text = "Jorge Siu"; ObjectID = "iqn-FT-kKJ"; */
+"iqn-FT-kKJ.text" = "Jorge Siu";
+
+/* Class = "UITextField"; placeholder = "Sub Promoters Commission"; ObjectID = "isb-4l-mXm"; */
+"isb-4l-mXm.placeholder" = "Sub Promoters Commission";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jAw-fs-nqK"; */
+"jAw-fs-nqK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jXr-1n-WCT"; */
+"jXr-1n-WCT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Wed, October 3, 2018 at 01:25 PM"; ObjectID = "jdZ-Zv-Brb"; */
+"jdZ-Zv-Brb.text" = "Wed, October 3, 2018 at 01:25 PM";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "jjK-71-AQD"; */
+"jjK-71-AQD.text" = "Profile";
+
+/* Class = "UILabel"; text = "COMMISSION\nTIKTS / AMOUNT"; ObjectID = "jsB-uA-Dkp"; */
+"jsB-uA-Dkp.text" = "COMMISSION\nTIKTS / AMOUNT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jxJ-lg-A9r"; */
+"jxJ-lg-A9r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "702 Reunion"; ObjectID = "k4b-G9-r6p"; */
+"k4b-G9-r6p.text" = "702 Reunion";
+
+/* Class = "UITextField"; placeholder = "End Date & Time"; ObjectID = "kHk-7j-UGe"; */
+"kHk-7j-UGe.placeholder" = "End Date & Time";
+
+/* Class = "UITextField"; placeholder = "URL"; ObjectID = "kPO-0z-MTg"; */
+"kPO-0z-MTg.placeholder" = "URL";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "kmP-JE-Xzq"; */
+"kmP-JE-Xzq.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "l5B-PU-y9t"; */
+"l5B-PU-y9t.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "lDR-y9-GHI"; */
+"lDR-y9-GHI.normalTitle" = "Post";
+
+/* Class = "UIButton"; normalTitle = "Tickets you sold"; ObjectID = "lVu-mL-ICl"; */
+"lVu-mL-ICl.normalTitle" = "Tickets you sold";
+
+/* Class = "UITextField"; placeholder = "Birthday"; ObjectID = "lhN-Ya-c4m"; */
+"lhN-Ya-c4m.placeholder" = "Birthday";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "m4N-e1-GKc"; */
+"m4N-e1-GKc.placeholder" = "Price";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "m6U-Am-7YN"; */
+"m6U-Am-7YN.text" = "Label";
+
+/* Class = "UILabel"; text = "All Categories"; ObjectID = "mTh-up-ejt"; */
+"mTh-up-ejt.text" = "All Categories";
+
+/* Class = "UITextField"; placeholder = "Qty"; ObjectID = "mmD-iF-Fj6"; */
+"mmD-iF-Fj6.placeholder" = "Qty";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n7d-OF-Q91"; */
+"n7d-OF-Q91.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Rounting Number"; ObjectID = "nQR-iB-1Cx"; */
+"nQR-iB-1Cx.placeholder" = "Rounting Number";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ndO-Pv-A7b"; */
+"ndO-Pv-A7b.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Select Tickets"; ObjectID = "oAb-lJ-aNb"; */
+"oAb-lJ-aNb.text" = "Select Tickets";
+
+/* Class = "UILabel"; text = "$ 365"; ObjectID = "oDB-Mb-8Qm"; */
+"oDB-Mb-8Qm.text" = "$ 365";
+
+/* Class = "UILabel"; text = "We'll send you reset password link."; ObjectID = "oL0-Wk-whE"; */
+"oL0-Wk-whE.text" = "We'll send you reset password link.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oLM-VR-6eI"; */
+"oLM-VR-6eI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oRj-IY-P7D"; */
+"oRj-IY-P7D.text" = "Label";
+
+/* Class = "UILabel"; text = "Log in"; ObjectID = "oT5-uv-dLR"; */
+"oT5-uv-dLR.text" = "Log in";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ogk-iH-899"; */
+"ogk-iH-899.text" = "Label";
+
+/* Class = "UILabel"; text = "Tkts Sales"; ObjectID = "p6E-8c-POk"; */
+"p6E-8c-POk.text" = "Tkts Sales";
+
+/* Class = "UILabel"; text = "Member Since\nOctober 2017"; ObjectID = "qPe-Dz-PNd"; */
+"qPe-Dz-PNd.text" = "Member Since\nOctober 2017";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qQI-cz-0nd"; */
+"qQI-cz-0nd.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "qWr-FF-vsz"; */
+"qWr-FF-vsz.placeholder" = "Last name";
+
+/* Class = "UILabel"; text = "Display your ticket and Barcode"; ObjectID = "qZM-lb-I9j"; */
+"qZM-lb-I9j.text" = "Display your ticket and Barcode";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qdv-Qz-QU6"; */
+"qdv-Qz-QU6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "My Events"; ObjectID = "rN5-A4-yrJ"; */
+"rN5-A4-yrJ.text" = "My Events";
+
+/* Class = "UILabel"; text = "Find Events"; ObjectID = "rOz-8f-TsJ"; */
+"rOz-8f-TsJ.text" = "Find Events";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "rQT-fU-Ypz"; */
+"rQT-fU-Ypz.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "$ 0.00"; ObjectID = "rbJ-rY-pyj"; */
+"rbJ-rY-pyj.text" = "$ 0.00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rj9-dz-TvM"; */
+"rj9-dz-TvM.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "rtl-hw-hAs"; */
+"rtl-hw-hAs.placeholder" = "Amount";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rwo-qL-tGr"; */
+"rwo-qL-tGr.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "s95-hx-76V"; */
+"s95-hx-76V.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "YYYY"; ObjectID = "sTF-n8-RGH"; */
+"sTF-n8-RGH.placeholder" = "YYYY";
+
+/* Class = "UIButton"; normalTitle = "Payments Received"; ObjectID = "sk8-j0-WVO"; */
+"sk8-j0-WVO.normalTitle" = "Payments Received";
+
+/* Class = "UITextField"; placeholder = "Promo Code"; ObjectID = "t2i-tP-jba"; */
+"t2i-tP-jba.placeholder" = "Promo Code";
+
+/* Class = "UILabel"; text = "Nfl Sundays 90's Edition"; ObjectID = "tJR-UN-9aU"; */
+"tJR-UN-9aU.text" = "Nfl Sundays 90's Edition";
+
+/* Class = "UILabel"; text = "Make Event Live"; ObjectID = "tOX-eJ-BgM"; */
+"tOX-eJ-BgM.text" = "Make Event Live";
+
+/* Class = "UITextField"; placeholder = "Zipcode"; ObjectID = "tX0-Ce-AuN"; */
+"tX0-Ce-AuN.placeholder" = "Zipcode";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "tiG-q8-5YC"; */
+"tiG-q8-5YC.text" = "Payment";
+
+/* Class = "UILabel"; text = "Earnings on Events"; ObjectID = "tjb-3Q-MsW"; */
+"tjb-3Q-MsW.text" = "Earnings on Events";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "up7-r9-vAz"; */
+"up7-r9-vAz.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v1N-gp-akQ"; */
+"v1N-gp-akQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Amount: $ 00.00"; ObjectID = "vac-Tl-Oqc"; */
+"vac-Tl-Oqc.text" = "Amount: $ 00.00";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "wUO-Fa-6Wm"; */
+"wUO-Fa-6Wm.normalTitle" = "Connect";
+
+/* Class = "UITextField"; placeholder = "Event Title"; ObjectID = "wVa-1z-xu1"; */
+"wVa-1z-xu1.placeholder" = "Event Title";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "wcp-nK-Tor"; */
+"wcp-nK-Tor.text" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wid-gx-W7b"; */
+"wid-gx-W7b.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x0c-jq-R3a"; */
+"x0c-jq-R3a.text" = "Label";
+
+/* Class = "UILabel"; text = "OCT"; ObjectID = "xNk-QV-7OT"; */
+"xNk-QV-7OT.text" = "OCT";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "xzT-ji-hiK"; */
+"xzT-ji-hiK.text" = "Messages";
+
+/* Class = "UILabel"; text = "Don't have an account yet?"; ObjectID = "y91-8H-XGH"; */
+"y91-8H-XGH.text" = "Don't have an account yet?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yCB-kk-VV2"; */
+"yCB-kk-VV2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Events you can promote"; ObjectID = "yaA-gu-QRA"; */
+"yaA-gu-QRA.normalTitle" = "Events you can promote";
+
+/* Class = "UILabel"; text = "Create Event"; ObjectID = "ysv-cG-vzY"; */
+"ysv-cG-vzY.text" = "Create Event";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zVA-Tw-AYQ"; */
+"zVA-Tw-AYQ.text" = "Label";
