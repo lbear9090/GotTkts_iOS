@@ -27,7 +27,10 @@
                 event.event_total_tickets = 0;
             event.event_address = data[@"event_address"];
             event.event_category = [data[@"event_category"] integerValue];
-            event.event_created_by = [data[@"event_create_by"] integerValue];
+            if ([NSNull null] != data[@"event_create_by"])
+                event.event_created_by = [data[@"event_create_by"] integerValue];
+            else
+                event.event_created_by = 0;
             event.event_description = data[@"event_description"];
             event.event_start_datetime = data[@"event_start_datetime"];
             event.event_end_datetime = data[@"event_end_datetime"];

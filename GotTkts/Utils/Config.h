@@ -170,7 +170,8 @@ enum {
 #define NOTIFICATION_PAGE_SIGNOUT                               @"NOTIFICATION_PAGE_SIGNOUT"
 
 /* HTTP URL */
-#define REQUEST_BASE_URL                                        @"https://gottkts.com/api/"
+#define REQUEST_BASE_URL                                        @"https://gotticketz.com/api/"
+//#define REQUEST_BASE_URL                                        @"https://gottkts.com/api/"
 //#define REQUEST_BASE_URL                                        @"http://10.70.1.109/api/"
 #define REQUEST_SIGN_UP                                         [NSString stringWithFormat:@"%@%@", REQUEST_BASE_URL, @"signup"]
 #define REQUEST_SIGN_IN                                         [NSString stringWithFormat:@"%@%@", REQUEST_BASE_URL, @"login"]
